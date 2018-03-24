@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>./Thomas.sh</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://thomas.sh/"/>
+  <updated>2018-03-24T07:45:04.039Z</updated>
+  <id>https://thomas.sh/</id>
+  
+  <author>
+    <name>Thomas LECLERCQ</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>En construction</title>
+    <link href="https://thomas.sh/2018/03/24/coming-soon/"/>
+    <id>https://thomas.sh/2018/03/24/coming-soon/</id>
+    <published>2018-03-24T07:45:04.039Z</published>
+    <updated>2018-03-24T07:45:04.039Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Pas encore de posts sur le blog!&lt;/p&gt;&lt;p&gt;Stay tunned
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
